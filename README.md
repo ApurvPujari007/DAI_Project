@@ -9,5 +9,7 @@ To run this project on your machine, you must have following things-
 
 
    OPENAI_API_KEY= _Your key_
+   
    PINECONE_API_KEY= _Your key_
+   
    PINECONE_ENV= _Your key_
