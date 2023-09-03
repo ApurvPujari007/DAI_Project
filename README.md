@@ -5,6 +5,7 @@ To run this project on your machine, you must have following things-
 1. OpenAI API Key
 2. PineCone API
 3. An .env file
+
    An .env file is nothing but a text file which contains all your API Keys, Its structure is as follows
 
 
